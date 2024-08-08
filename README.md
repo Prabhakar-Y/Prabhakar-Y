@@ -17,6 +17,12 @@
 ### Data Analysis Libraries:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4C6B?style=flat-square&logo=plotly&logoColor=white)
 
+### API Testing:
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![RestAssured](https://img.shields.io/badge/RestAssured-43B02A?style=flat-square&logo=java&logoColor=white) ![RestAPI](https://img.shields.io/badge/RestAPI-000000?style=flat-square&logo=restapi&logoColor=white) ![Cucumber BDD](https://img.shields.io/badge/Cucumber%20BDD-23D96C?style=flat-square&logo=cucumber&logoColor=white) ![Serenity](https://img.shields.io/badge/Serenity-000000?style=flat-square&logo=serenity&logoColor=white)
+
+### GEN AI:
+![PostBot](https://img.shields.io/badge/PostBot-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
 ## About Me
 
 I’m a Senior Principal Software Engineer-QA with a deep passion for software test automation, performance testing, and cloud solutions. With extensive experience in the tools listed above, I thrive on optimizing software quality and performance.
