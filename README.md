@@ -8,6 +8,10 @@
 ### Automation Tools:
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Appium](https://img.shields.io/badge/Appium-25D366?style=flat-square&logo=appium&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-430098?style=flat-square&logo=playwright&logoColor=white) ![Charles](https://img.shields.io/badge/Charles-000000?style=flat-square&logo=charles&logoColor=white)
 
+### Flutter & Flutter Inspector
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Flutter Inspector](https://img.shields.io/badge/Flutter%20Inspector-00C6FF?style=flat-square&logo=flutter&logoColor=white)
+
 ### Performance & Monitoring Tools:
 ![JMeter](https://img.shields.io/badge/JMeter-FCC624?style=flat-square&logo=apache-jmeter&logoColor=black) ![New Relic](https://img.shields.io/badge/New%20Relic-00A6A6?style=flat-square&logo=new-relic&logoColor=white) ![BlazeMeter](https://img.shields.io/badge/BlazeMeter-FFB800?style=flat-square&logo=blazemeter&logoColor=black) ![VSTS](https://img.shields.io/badge/VSTS-0078D7?style=flat-square&logo=visual-studio&logoColor=white)
 
