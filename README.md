@@ -13,6 +13,9 @@
 
 ### Cloud & DevOps:
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
 
 ### Data Analysis Libraries:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4C6B?style=flat-square&logo=plotly&logoColor=white)
@@ -30,5 +33,10 @@ I’m a Senior Principal Software Engineer-QA with a deep passion for software t
 - 💼 Currently exploring innovative testing methodologies and enhancing performance strategies.
 - 🌍 Always excited to connect with fellow tech enthusiasts and professionals.
 - 📚 Learning GenAI, AIML Ops, and delving into data analysis with NumPy, Pandas, and Plotly.
+### Tech Blogs
+- [![Medium](https://img.shields.io/badge/Medium-00AB6C?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@prabhtra01)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/prabh_the_techie/)
+
+
 
 Happy coding and testing! 😄
