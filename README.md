@@ -14,6 +14,7 @@
 
 ### Performance & Monitoring Tools:
 ![JMeter](https://img.shields.io/badge/JMeter-FCC624?style=flat-square&logo=apache-jmeter&logoColor=black) ![New Relic](https://img.shields.io/badge/New%20Relic-00A6A6?style=flat-square&logo=new-relic&logoColor=white) ![BlazeMeter](https://img.shields.io/badge/BlazeMeter-FFB800?style=flat-square&logo=blazemeter&logoColor=black) ![VSTS](https://img.shields.io/badge/VSTS-0078D7?style=flat-square&logo=visual-studio&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22CCED?style=flat-square&logo=influxdb&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ### Cloud & DevOps:
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
