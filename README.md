@@ -18,8 +18,10 @@ I’m a **Senior Principal Software Engineer-QA** with a deep passion for **soft
 ### **Automation Tools:**
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Appium](https://img.shields.io/badge/Appium-25D366?style=flat-square&logo=appium&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-430098?style=flat-square&logo=playwright&logoColor=white) ![Charles](https://img.shields.io/badge/Charles-000000?style=flat-square&logo=charles&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)  
 
-### **Mobile Testing with Appium for Flutter:**
-![Appium Flutter Driver](https://img.shields.io/badge/Appium%20Flutter%20Driver-25D366?style=flat-square&logo=appium&logoColor=white) ![Appium Flutter Finder](https://img.shields.io/badge/Appium%20Flutter%20Finder-25D366?style=flat-square&logo=appium&logoColor=white) ![Flutter Inspector](https://img.shields.io/badge/Flutter%20Inspector-00C6FF?style=flat-square&logo=flutter&logoColor=white)  
+### **Mobile Automation Testing:**
+![Appium Flutter Driver](https://img.shields.io/badge/Appium%20Flutter%20Driver-25D366?style=flat-square&logo=appium&logoColor=white) ![Appium Flutter Finder](https://img.shields.io/badge/Appium%20Flutter%20Finder-25D366?style=flat-square&logo=appium&logoColor=white) ![Flutter Inspector](https://img.shields.io/badge/Flutter%20Inspector-00C6FF?style=flat-square&logo=flutter&logoColor=white) ![UIAutomator2](https://img.shields.io/badge/UIAutomator2-1C3D4A?style=flat-square&logo=android&logoColor=white)  
+
+
 
 ### **Cloud & DevOps:**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
